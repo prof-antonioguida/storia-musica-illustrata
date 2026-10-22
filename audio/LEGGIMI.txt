@@ -1,0 +1,65 @@
+﻿CARTELLA AUDIO – Storia della musica illustrata
+
+Metti qui gli mp3 degli ascolti, con ESATTAMENTE questi nomi (minuscole, trattini bassi, .mp3).
+Se un file manca, l'app funziona lo stesso e il riquadro avvisa che il brano non e' ancora disponibile.
+Dentro l'app, in Impostazioni > Informazioni, vedi quali file sono presenti e quali mancano.
+
+1.2   asc_1_1_flauto_osso.mp3            Il flauto d'osso
+1.3   asc_1_2_inno_hurrita.mp3           La melodia scritta più antica
+1.4   asc_1_3_seikilos.mp3               La canzone di Seikilos
+1.5   asc_1_4_roma.mp3                   I suoni di Roma
+2.1   asc_2_1_gregoriano.mp3             Puer natus est nobis
+2.2   asc_2_2_ut_queant_laxis.mp3        Ut queant laxis
+2.3   asc_2_3_ildegarda.mp3              O viridissima virga
+2.4   asc_2_4_saltarello.mp3             Un saltarello
+2.5   asc_2_5_perotin.mp3                Viderunt omnes di Perotino
+2.5   asc_2_6_landini.mp3                (facoltativo) Ecco la primavera
+3.1   asc_3_1_josquin_grillo.mp3         El grillo di Josquin Desprez
+3.2   asc_3_2_palestrina.mp3             Sicut cervus
+3.3   asc_3_3_banchieri.mp3              Contrappunto bestiale alla mente di Adriano Banchieri
+3.3   asc_3_4_janequin.mp3               (facoltativo) Il canto degli uccelli di Clément Janequin
+3.4   asc_3_5_mainerio.mp3               Schiarazula marazula di Giorgio Mainerio
+3.4   asc_3_6_susato.mp3                 (facoltativo) La Mourisque di Tielman Susato
+3.5   asc_3_7_gabrieli.mp3               Sonata pian' e forte di Giovanni Gabrieli
+4.1   asc_4_1_monteverdi.mp3             La Toccata dell'Orfeo
+4.2   asc_4_2_corelli.mp3                La Follia di Arcangelo Corelli
+4.2   asc_4_3_scarlatti.mp3              (facoltativo) La fuga del gatto di Domenico Scarlatti
+4.3   asc_4_4_vivaldi.mp3                La primavera
+4.4   asc_4_5_bach_badinerie.mp3         La Badinerie
+4.4   asc_4_6_bach_toccata.mp3           (facoltativo) La Toccata e fuga in re minore
+4.5   asc_4_7_handel_water.mp3           Alla Hornpipe dalla Musica sull'acqua
+4.5   asc_4_8_handel_hallelujah.mp3      (facoltativo) Hallelujah dal Messia
+5.1   asc_5_1_mozart_turca.mp3           Il Rondò alla turca di Mozart
+5.2   asc_5_2_haydn_sorpresa.mp3         La sinfonia La sorpresa
+5.3   asc_5_3_mozart_variazioni.mp3      Le variazioni su Ah, vous dirai-je, maman
+5.3   asc_5_4_mozart_nachtmusik.mp3      (facoltativo) Eine kleine Nachtmusik
+5.4   asc_5_5_papageno.mp3               Sono io l'uccellatore
+5.4   asc_5_6_regina_notte.mp3           (facoltativo) L'aria della Regina della notte
+5.5   asc_5_7_beethoven_quinta.mp3       L'inizio della Quinta sinfonia
+5.5   asc_5_8_beethoven_gioia.mp3        L'Inno alla gioia dalla Nona sinfonia
+5.5   asc_5_9_per_elisa.mp3              (facoltativo) Per Elisa
+6.1   asc_6_1_schubert_trota.mp3         La trota
+6.2   asc_6_2_chopin_minuto.mp3          Il Valzer del minuto
+6.3   asc_6_3_paganini.mp3               Il Capriccio numero 24
+6.4   asc_6_4_rossini_tell.mp3           Il finale dell'ouverture del Guglielmo Tell di Rossini
+6.4   asc_6_5_verdi_pensiero.mp3         Va', pensiero dal Nabucco di Verdi
+6.5   asc_6_6_saint_saens_leone.mp3      Marcia reale del leone di Saint-Saëns
+6.5   asc_6_8_grieg.mp3                  Nell'antro del re della montagna di Grieg
+6.5   asc_6_7_saint_saens_cigno.mp3      (facoltativo) Il cigno di Saint-Saëns
+6.5   asc_6_9_musorgskij.mp3             (facoltativo) Balletto dei pulcini nei loro gusci di Musorgskij
+6.6   asc_6_10_cajkovskij.mp3            Danza della fata confetto
+7.1   asc_7_1_debussy.mp3                Chiaro di luna di Debussy
+7.1   asc_7_2_ravel_bolero.mp3           Il Boléro di Ravel
+7.2   asc_7_3_stravinskij.mp3            Gli àuguri primaverili
+7.3   asc_7_4_russolo.mp3                I suoni degli intonarumori
+7.4   asc_7_5_schoenberg.mp3             Ebbro di luna dal Pierrot lunaire
+7.5   asc_7_6_gershwin.mp3               Rhapsody in Blue di Gershwin
+7.5   asc_7_7_bartok.mp3                 (facoltativo) La prima delle Danze popolari rumene di Bartók
+7.6   asc_7_8_prokofiev.mp3              La presentazione dei personaggi
+8.1   asc_8_1_schaeffer.mp3              Studio sui treni di Pierre Schaeffer
+8.2   asc_8_2_cage.mp3                   La Sonata numero 5 per pianoforte preparato
+8.3   asc_8_3_ligeti.mp3                 Poema sinfonico per cento metronomi
+8.4   asc_8_4_berberian.mp3              Stripsody
+8.5   asc_8_5_reich.mp3                  Clapping Music di Steve Reich
+8.5   asc_8_6_part.mp3                   (facoltativo) Spiegel im Spiegel dell'estone Arvo Pärt
+8.6   asc_8_7_morricone.mp3              Il tema del film Il buono, il brutto, il cattivo di Ennio Morricone

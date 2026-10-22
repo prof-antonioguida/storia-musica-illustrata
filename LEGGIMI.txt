@@ -1,0 +1,30 @@
+﻿STORIA DELLA MUSICA ILLUSTRATA PER LA SCUOLA PRIMARIA
+di Antonio Guida - app di lettura
+
+COME SI APRE
+- Fai doppio clic sul file index.html: si apre nel browser (meglio Chrome o Microsoft Edge aggiornati).
+- Funziona anche senza internet: testi, immagini, caratteri e giochi sono tutti dentro questa cartella.
+- Per la LIM o la Smart TV usa il pulsante "schermo intero" in alto a destra.
+- Si sfoglia con Avanti/Indietro, con le frecce della tastiera o scorrendo con il dito.
+- Per spostare l'app su un altro computer copia tutta la cartella (oppure il file .zip), non solo index.html.
+
+GLI ASCOLTI (MP3)
+- Metti gli mp3 nella cartella "audio", con esattamente i nomi elencati in audio\LEGGIMI.txt.
+- Se un file manca, la pagina funziona lo stesso e il riquadro avvisa che il brano non e' ancora disponibile.
+- Nell'app, Impostazioni > "Informazioni e controllo degli ascolti" mostra quali file ci sono e quali mancano.
+
+LA VOCE CHE LEGGE
+- La voce e' quella del dispositivo. Nelle Impostazioni dell'app si sceglie la voce italiana e la velocita'.
+- Con Microsoft Edge su Windows ci sono voci italiane molto naturali (per esempio "Isabella" o "Elsa"
+  con la scritta Online): funzionano solo con la connessione a internet.
+- Senza internet si usa la voce italiana installata in Windows (per esempio "Microsoft Elsa").
+- Se un nome viene pronunciato male, si puo' correggere nell'elenco PRONUNCIA in fondo al file js\data.js.
+
+CORREGGERE I TESTI
+- Tutti i testi sono nel file js\data.js (si apre con il Blocco note).
+- Cambia solo le parole tra le virgolette e lascia com'e' tutto il resto (virgole, parentesi, virgolette).
+
+METTERLA ONLINE (tablet, smartphone, sito)
+- Sui tablet e sugli smartphone e' piu' comodo aprire l'app da un sito: basta caricare tutta la cartella
+  su uno spazio web (per esempio il tuo sito) e aprire l'indirizzo di index.html.
+- Prima di pubblicarla online con gli mp3, controlla i diritti delle registrazioni.
